@@ -1,0 +1,2 @@
+# LLM-Powered-RAG-System-for-Document-Retrieval-Summarization
+Developed an LLM-powered RAG system for document retrieval and summarization using chunking, embeddings, and semantic search. Built FastAPI-based Q&amp;A APIs, processed 10K+ text chunks, improved answer relevance by 35%, reduced response time by 30%, and enhanced output precision by 25% through retrieval optimization and prompt tuning.
