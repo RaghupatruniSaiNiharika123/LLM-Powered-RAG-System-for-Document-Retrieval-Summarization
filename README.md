@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **RAG-with-Summarized-Chain**
 
 An advanced Retrieval-Augmented Generation (RAG) system designed to improve how users interact with large PDF documents through a responsive chat interface. This project introduces a *Summarized Chain* approach to significantly enhance retrieval quality and overall efficiency, especially in academic evaluation workflows.
